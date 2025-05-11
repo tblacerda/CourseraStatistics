@@ -1,0 +1,4 @@
+https://www.kaggle.com/ashirwadsangwan/imdb-dataset
+https://www.kaggle.com/ashirwadsangwan/imdb-dataset?select=title.basics.tsv.gz
+https://www.kaggle.com/ashirwadsangwan/imdb-dataset?select=title.ratings.tsv.gz
+
